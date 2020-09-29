@@ -1,0 +1,6 @@
+node_modules
+demo
+yarn.lock
+.idea
+dist
+public/uploads
